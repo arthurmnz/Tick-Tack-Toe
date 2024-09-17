@@ -49,6 +49,7 @@ def pergunta_max_min(str, min, max):
 	return saida
 
 
+
 def escolha_player(max_coluna, max_linha, min_coluna, min_linha):
 
 
